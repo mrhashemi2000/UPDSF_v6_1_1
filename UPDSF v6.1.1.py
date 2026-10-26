@@ -13,7 +13,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 ORCID: 0009-0002-0645-5180
 
+https://doi.org/10.5281/zenodo.23656782
 
+https://doi.org/10.5281/zenodo.23655168
 
 CHANGELOG v6.1.0 -> v6.1.1
 -------------------------

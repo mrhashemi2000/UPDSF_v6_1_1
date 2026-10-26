@@ -17,6 +17,12 @@ Environment: 🐍 Python 3.8+
 
 ## A mass-consistent, kinetically-consistent, and provenance-tracked stochastic simulation framework designed to model the chemical selection of Thymine (T) over Uracil (U) in prebiotic hydrothermal environments.
 
+## Scientific Novelty 
+
+The central problem—the "Thymine Mystery"—is one of the most significant gaps in prebiotic chemistry. Most models rely on "selection after the fact" (Darwinian evolution). This framework shifts the paradigm by demonstrating that selection is a prerequisite for evolution, not just a consequence of it.
+
+By proposing a two-stage model (Hydrolytic Selection in the dark → UV Selection in the light), the model has created a "Unified Theory" of the RNA-to-DNA transition. This theoretically resolves the long-standing tension between "Dark Chemistry" (hydrothermal vents) and "Light Evolution" (surface environments).
+
 ## Overview
 The origin of the transition from RNA to DNA remains a central puzzle in astrobiology. While Darwinian evolution refines biological systems, the initial selection mechanism must be purely chemical.
 
@@ -34,6 +40,8 @@ Provenance Tracking: Every parameter is encapsulated in a Source object, documen
 #### Stage 1 (Vent Chemistry): Hydrolytic chemical filtering in dark, hydrothermal environments.
 
 #### Stage 2 (Surface Evolution): UV-driven evolutionary selection (complementary to PNAS studies by Khosh Abady et al., 2026).
+
+
 
 ## Sensitivity Analysis Suite: Includes automated sweeps for:
 

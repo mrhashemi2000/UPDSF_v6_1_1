@@ -28,6 +28,8 @@ The origin of the transition from RNA to DNA remains a central puzzle in astrobi
 
 UPDSF v6.1.1 demonstrates that chemical filtering in dark, alkaline hydrothermal vents can drive a significant enrichment of Thymine over Uracil (CSI ≈ 6.019×) through the multiplicative combination of direct preferential hydrolysis and pool-composition drift.
 
+#### "To ensure the robustness of our theoretical findings, we explicitly decomposed the CSI to distinguish between direct kinetic selection and indirect pool-composition drift, finding that both are essential components of the total environmental selection."
+
 ## Key Features
 Stochastic Simulation Engine: Utilizes Kinetic Monte Carlo methods (Binomial destruction) to model molecular populations with high statistical robustness.
 

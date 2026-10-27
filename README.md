@@ -28,7 +28,7 @@ By proposing a two-stage model (Hydrolytic Selection in the dark → UV Selectio
 
 📂 **Critique: RNA World vs. Matter World Hypothesis (MWH)**
 
-The detailed Critique: RNA World vs. Matter World Hypothesis (MWH) can be found in the 📄 [ Matter World Hypothesis (MWH)](_Matter_World_Hypothesis_(MWH).md)
+The detailed Critique: RNA World vs. Matter World Hypothesis (MWH) can be found in the 📄 [ Matter World Hypothesis (MWH)](_/Matter_World_Hypothesis_(MWH).md)
 
 <br>
 <br>

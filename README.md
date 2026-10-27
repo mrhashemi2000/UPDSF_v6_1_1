@@ -23,6 +23,15 @@ The central problem—the "Thymine Mystery"—is one of the most significant gap
 
 By proposing a two-stage model (Hydrolytic Selection in the dark → UV Selection in the light), the model has created a "Unified Theory" of the RNA-to-DNA transition. This theoretically resolves the long-standing tension between "Dark Chemistry" (hydrothermal vents) and "Light Evolution" (surface environments).
 
+<br>
+<br>
+
+📂 **Critique: RNA World vs. Matter World Hypothesis (MWH)**
+
+The detailed Critique: RNA World vs. Matter World Hypothesis (MWH) can be found in the 📄 [ Matter World Hypothesis (MWH)](_Matter_World_Hypothesis_(MWH).md)
+
+<br>
+<br>
 ## Overview
 The origin of the transition from RNA to DNA remains a central puzzle in astrobiology. While Darwinian evolution refines biological systems, the initial selection mechanism must be purely chemical.
 

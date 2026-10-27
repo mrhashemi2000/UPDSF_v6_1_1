@@ -28,7 +28,7 @@ By proposing a two-stage model (Hydrolytic Selection in the dark → UV Selectio
 
 📂 **Complete Analysis: The Matter World Hypothesis (MWH): A Deterministic Theory of Genetic Architecture**
 
-The detailed reports and raw data for Complete Analysis: The Matter World Hypothesis (MWH): A Deterministic Theory of Genetic Architecture can be found in the 📄 [Complete Analysis: The Matter World Hypothesis (MWH): A Deterministic Theory of Genetic Architecture](analysis/Matter_World_Hypothesis_(MWH)l.md)
+The detailed reports and raw data for Complete Analysis: The Matter World Hypothesis (MWH): A Deterministic Theory of Genetic Architecture can be found in the 📄 [ The Matter World Hypothesis (MWH): A Deterministic Theory of Genetic Architecture](analysis/Matter_World_Hypothesis_(MWH)l.md)
 
 <br>
 <br>

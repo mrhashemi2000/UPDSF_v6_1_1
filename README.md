@@ -3,6 +3,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23655168-blue)](https://doi.org/10.5281/zenodo.23655168) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23788480-blue)](https://doi.org/10.5281/zenodo.23788480) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 # UPDSF_v6_1_1

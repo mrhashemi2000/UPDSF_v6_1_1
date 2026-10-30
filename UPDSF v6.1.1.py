@@ -17,6 +17,10 @@ https://doi.org/10.5281/zenodo.23656782
 
 https://doi.org/10.5281/zenodo.23655168
 
+https://doi.org/10.5281/zenodo.23788249
+
+https://doi.org/10.5281/zenodo.23788480
+
 CHANGELOG v6.1.0 -> v6.1.1
 -------------------------
 1.  FIX (CRITICAL): main() called analyzer.free_monomer_deam_scale_sweep()

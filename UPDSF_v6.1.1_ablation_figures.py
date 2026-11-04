@@ -1,6 +1,26 @@
 """
 Generate Figures S10-S12 (300 ppi) from UPDSF ablation results CSVs.
 
+AUTHOR: Seyed Mohammad Reza Hashemi (Reza Hashemi) Intelligence-Augmented (IA)
+VERSION: 6.1.1
+License & Copyright
+Copyright ©️ 2026 Seyed Mohammad Reza Hashemi
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+ORCID: 0009-0002-0645-5180
+
+https://doi.org/10.5281/zenodo.23656782
+
+https://doi.org/10.5281/zenodo.23655168
+
+https://doi.org/10.5281/zenodo.23788249
+
+https://doi.org/10.5281/zenodo.23788480
+
+https://doi.org/10.5281/zenodo.23876507
+
+https://doi.org/10.5281/zenodo.23876308
+
 Inputs (must be in the same directory as this script):
   - updsf_ablation_results_paired_delta_vs_baseline.csv
   - updsf_ablation_results_per_run.csv

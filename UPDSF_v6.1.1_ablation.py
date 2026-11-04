@@ -3,6 +3,26 @@
 UPDSF v6.1.1 — mechanism-ablation experiment
 Run locally beside "UPDSF v6.1.1.py".
 
+AUTHOR: Seyed Mohammad Reza Hashemi (Reza Hashemi) Intelligence-Augmented (IA)
+VERSION: 6.1.1
+License & Copyright
+Copyright ©️ 2026 Seyed Mohammad Reza Hashemi
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+ORCID: 0009-0002-0645-5180
+
+https://doi.org/10.5281/zenodo.23656782
+
+https://doi.org/10.5281/zenodo.23655168
+
+https://doi.org/10.5281/zenodo.23788249
+
+https://doi.org/10.5281/zenodo.23788480
+
+https://doi.org/10.5281/zenodo.23876507
+
+https://doi.org/10.5281/zenodo.23876308
+
 Default: 5 paired random seeds, 2400 h, dt=60 s.
 Writes per-run results and mean/std summaries to CSV.
 

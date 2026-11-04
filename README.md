@@ -1,3 +1,7 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23876507-blue)](https://doi.org/10.5281/zenodo.23876507) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23876308-blue)](https://doi.org/10.5281/zenodo.23876308) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23788249-blue)](https://doi.org/10.5281/zenodo.23788249) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23656782-blue)](https://doi.org/10.5281/zenodo.23656782) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -34,6 +38,17 @@ The detailed reports and raw data for Complete Analysis: The Matter World Hypoth
 
 <br>
 <br>
+
+<img width="1366" height="768" alt="تصویر صفحه 2026-11-02 103634" src="https://github.com/user-attachments/assets/0cc0c273-d54b-40ea-b72e-199518ae4fa7" />
+
+<img width="1352" height="485" alt="تصویر صفحه 2026-11-04 081907" src="https://github.com/user-attachments/assets/c0037153-c4eb-4830-abdf-d256ba99d45c" />
+
+<img width="1357" height="541" alt="تصویر صفحه 2026-11-04 082159" src="https://github.com/user-attachments/assets/b1823ec8-ae7d-4fd7-ac67-9f0ca7290ca9" />
+
+<img width="1355" height="488" alt="تصویر صفحه 2026-11-04 082414" src="https://github.com/user-attachments/assets/7ca9ed9d-7390-4aba-b529-d23748c7dba1" />
+
+
+
 ## Overview
 The origin of the transition from RNA to DNA remains a central puzzle in astrobiology. While Darwinian evolution refines biological systems, the initial selection mechanism must be purely chemical.
 

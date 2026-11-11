@@ -129,6 +129,8 @@ Sensitivity Heatmaps: Impact of Eₐ and UV flux on stability.
 ## Citation
 If you use this framework in your research, please cite the following:
 
+Reza Hashemi. (2026). Chemical Filtering of Thymine over Uracil in Prebiotic Hydrothermal Systems: A Mass-Consistent Stochastic Model with Complementary Insights from UV Photodamage Pathways. ChemRxiv. https://doi.org/10.26434/chemrxiv.15011902/v1
+
 Reza Hashemi. (2026). Chemical Filtering of Thymine over Uracil in Prebiotic Hydrothermal Systems: A Mass-Consistent Stochastic Model with Complementary Insights from UV Photodamage Pathways. Zenodo. https://doi.org/10.5281/zenodo.23876507
 
 Reza Hashemi. (2026). Supplementary Information UPDSF v6.1.1 – Unified Prebiotic DNA Selection Framework Version 6.1.1 Chemical Filtering of Thymine over Uracil in Prebiotic Hydrothermal Systems A Mass-Consistent Stochastic Model with Complementary Insights from UV Photodamage Pathways. Zenodo. https://doi.org/10.5281/zenodo.23876308

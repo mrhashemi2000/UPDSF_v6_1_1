@@ -82,7 +82,7 @@ The 5-methyl group of Thymine is a functional solution to the deamination proble
 | Evolutionary Path | Linear: RNA → DNA | Parallel: Concurrent → Selection | ✓ Verified via `S-curve` CSI |
 | Driver of Change | Biological Adaptation / Chance | Thermodynamics & Photostability | ✓ Eₐ Sensitivity Sweep |
 | Environment | Passive Backdrop | Active "Selection Filter" | ✓ T-pH Grid Optimization |
-| DNA Emergence | A "Lucky" Upgrade | A Physicochemical Necessity | ✓ CSI = 6.019× |
+| DNA Emergence | A "Lucky" Upgrade | A Physicochemical Necessity (A Highly Probable Physicochemical Outcome) | ✓ CSI = 6.019× |
 | Outcome | Stochastic | Deterministic | ✓ Reproducible σ across seeds |
 
 ---

@@ -1,3 +1,18 @@
+
+[![DOI](https://img.shields.io/badge/DOI-10.26434/chemrxiv.15011902/v1-green)](https://doi.org/10.26434/chemrxiv.15011902/v1) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23876507-blue)](https://doi.org/10.5281/zenodo.23876507) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23876308-blue)](https://doi.org/10.5281/zenodo.23876308) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23788249-blue)](https://doi.org/10.5281/zenodo.23788249) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23656782-blue)](https://doi.org/10.5281/zenodo.23656782) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23655168-blue)](https://doi.org/10.5281/zenodo.23655168) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23788480-blue)](https://doi.org/10.5281/zenodo.23788480) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # 1-UPDSF v6.1.1 vs v6.2.0 — Full Comparison Report  
 
 

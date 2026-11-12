@@ -114,6 +114,8 @@ Supported by the UPDSF v6.1.1 framework, the "Thymine Switch" is presented not a
 
 While UPDSF demonstrates that dark vents can produce robust T/U enrichment, the full Thymine Mystery requires integration with a separate UV-evolution stage (Khosh Abady et al., 2026).
 
+This synergistic duality provides a biologically realistic framework for the RNA-to-DNA transition that integrates the hydrolytic selection demonstrated by UPDSF with the UV-evolution stage.
+
 ---
 
 Author: Seyed Mohammad Reza Hashemi  

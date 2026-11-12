@@ -112,6 +112,8 @@ The Matter World Hypothesis transforms the emergence of genetic archives from a 
 
 Supported by the UPDSF v6.1.1 framework, the "Thymine Switch" is presented not as a biological innovation, but as the inevitable result of thermodynamic stability and photochemical resilience.
 
+While UPDSF demonstrates that dark vents can produce robust T/U enrichment, the full Thymine Mystery requires integration with a separate UV-evolution stage (Khosh Abady et al., 2026).
+
 ---
 
 Author: Seyed Mohammad Reza Hashemi  
